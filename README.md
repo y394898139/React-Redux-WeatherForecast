@@ -14,3 +14,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+#### Or you can go to my heroku page
+
+Link: https://mighty-dusk-55938.herokuapp.com/
+
+(PLEASE SEARCH THE NEW ZEALAND CITY IN THE SEARCH BAR)
