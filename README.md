@@ -2,7 +2,7 @@
 
 It's a simple React-Redux App
 
-This app has used the Youtube Search Api. If the content of search bar changed, the video list will be changed accordingly.
+User can search a specific city's weather and get the chat of temperature, humidity and pressure.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
