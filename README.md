@@ -19,3 +19,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 Link: https://mighty-dusk-55938.herokuapp.com/
 
 (PLEASE SEARCH THE NEW ZEALAND CITY IN THE SEARCH BAR)
+
+#### Screenshot of the page
+![alt text](Screenshot.png "")
